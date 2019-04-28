@@ -10,7 +10,7 @@ namespace Deneme
     {
         static void Main(string[] args)
         {
-            Console.Write("Merhaba Dünya");
+            Console.Write("Merhaba Dünyam");
         }
     }
 }
